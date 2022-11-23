@@ -77,3 +77,9 @@ mkdir git5
 pwd
 cd ..
 mkdir git3
+cd ..
+mkdir git4
+cd tilde
+cd zafer
+mkdir git4
+code .
